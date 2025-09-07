@@ -109,5 +109,5 @@ theme: butterfly
 deploy:
   type: git
   # repo: https://github.com/yaooooh/yaooooh.github.io.git
-  repo: https://github.com/yaooooh/paw.git
-  branch: main  # 或者 master，根据你的仓库默认分支设置
+  repo: git@github.com/yaooooh/paw.git
+  branch: gh-pages  # 或者 master，根据你的仓库默认分支设置
