@@ -59,11 +59,11 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /images/favicon.png
+favicon: /images/favicon.ico
 
 avatar:
   # img: /img/butterfly-icon.png
-  img: /images/favicon.png
+  img: /images/favicon.ico
   effect: false
 
 # Disable all banner images
