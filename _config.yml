@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://localhost:4000
+url: https://yaooooh.github.io/paw/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -109,5 +109,5 @@ theme: butterfly
 deploy:
   type: git
   # repo: https://github.com/yaooooh/yaooooh.github.io.git
-  repo: git@github.com/yaooooh/paw.git
+  repository: git@github.com:yaooooh/paw.git
   branch: gh-pages  # 或者 master，根据你的仓库默认分支设置
